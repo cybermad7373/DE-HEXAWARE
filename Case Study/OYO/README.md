@@ -27,6 +27,7 @@ We analyzed hotel booking data to understand:
 
 ## 3. Data Cleaning & Validation
 Before analysis, we ensured:
+
 ✔ **No NULL hotel_ids** (required for FK constraint)  
 ✔ **No orphaned bookings** (all `hotel_id` values exist in `hotels` table)  
 ✔ **Date formats standardized** (`check_in`, `check_out`, `date_of_booking`)  
