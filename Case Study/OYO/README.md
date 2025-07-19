@@ -1,5 +1,7 @@
 # Hotel Booking Analysis (OYO)
 
+[working documentaion](https://github.com/cybermad7373/DE-HEXAWARE/blob/master/Case%20Study/OYO/OYO%20Booking%20Analysis%20Case%20Study.pdf)
+
 ## 1. Problem Understanding
 We analyzed hotel booking data to understand:
 - **Booking patterns** (popular cities, booking lead time, stay duration)
