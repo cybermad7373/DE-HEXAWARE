@@ -18,6 +18,7 @@ WHERE Name = 'Ram';
 UPDATE Students 
 SET Age = Age + 1;
 -- SET SQL_SAFE_UPDATES = 0;  
+SET SQL_SAFE_UPDATES = 0; 
 
 UPDATE Students 
 SET Name = 'Rameshh' 
