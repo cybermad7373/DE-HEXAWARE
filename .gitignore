@@ -5,3 +5,5 @@
 .pkl
 .idea
 .venv
+my_venv/
+artifacts/
