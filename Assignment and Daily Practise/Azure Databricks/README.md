@@ -1,1 +1,1 @@
-# (https://cybermad7373.github.io/Hosting/)[Click here to view th report as webpage]
+# [Click here to view the report as a webpage](https://cybermad7373.github.io/Hosting/)
