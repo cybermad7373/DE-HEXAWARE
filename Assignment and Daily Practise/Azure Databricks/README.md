@@ -1,1 +1,1 @@
-For Better visibility download the html file and view it on a browser.
+# (https://cybermad7373.github.io/Hosting/)[Click here to view th report as webpage]
